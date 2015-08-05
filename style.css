@@ -1,1 +1,2 @@
-#greeting {background-color: purple; border-color: red;)
+#greetingContainer {width:400px; height:100px}
+#greeting {background-color: purple; border-color: red;}
