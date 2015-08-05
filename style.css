@@ -1,2 +1,2 @@
-#greetingContainer {width: 80%; height: 20%;}
+#greetingContainer {width: 80%; min-height: 20%;}
 #greeting {background-color: purple; border-color: red;}
